@@ -1,4 +1,4 @@
-# Kepler Exoplanet Classification
+# Kepler Exoplanet Detection
 A machine learning project to classify exoplanet candidates from NASA's Kepler
 Space Observatory into three categories: FALSE POSITIVE, CANDIDATE, and CONFIRMED.
 
