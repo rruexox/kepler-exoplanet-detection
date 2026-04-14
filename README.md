@@ -27,7 +27,9 @@ Random Forest in a soft voting ensemble.
 | XGBoost (tuned) | 0.80 | 0.76 |
 | Ensemble | 0.81 | 0.77 |
 
+> **98% accuracy** when classifying confirmed planets against false positives.
+
 The CANDIDATE class was the hardest to classify — these are objects scientists  
 haven't confirmed yet, so the ambiguity is real. Running binary classification  
-between FALSE POSITIVE and CONFIRMED only hits 
+between FALSE POSITIVE and CONFIRMED only hits  
 **98% accuracy** and **0.97 macro F1**.
